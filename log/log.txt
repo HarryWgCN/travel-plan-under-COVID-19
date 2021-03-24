@@ -1,0 +1,38 @@
+open loc.txt
+@@@@@@@@@@@   now_time : 0   @@@@@@@@@@@
+
+user pressed ADD button to add client
+ID : 0 user added
+ID : 0 NAME : 小明 departure_id : 3 destination_id : 11 preference : LOW_RISK
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+These are the clients
+↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+小明 id : 0 Location : Wulumuqi  State : waiting
+  Time_amount so far : 10
+  Risk_amount so far : 2
+Plan of trip: 
+location : Wulumuqi ||start_time : 0 ||state : waiting ||end_time : 10
+location : Wulumuqi ||start_time : 10 ||state : on_rail ||end_time : 17
+location : Lasa ||start_time : 17 ||state : waiting ||end_time : -1
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+@@@@@@@@@@@   now_time : 1   @@@@@@@@@@@
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+These are the clients
+↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+小明 id : 0 Location : Wulumuqi  State : waiting
+  Time_amount so far : 10
+  Risk_amount so far : 2
+Plan of trip: 
+location : Wulumuqi ||start_time : 0 ||state : waiting ||end_time : 10
+location : Wulumuqi ||start_time : 10 ||state : on_rail ||end_time : 17
+location : Lasa ||start_time : 17 ||state : waiting ||end_time : -1
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+@@@@@@@@@@@   now_time : 2   @@@@@@@@@@@
+
